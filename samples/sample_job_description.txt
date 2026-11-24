@@ -1,0 +1,24 @@
+Python / Generative AI Developer
+
+We are looking for a Python / Generative AI Developer to build
+AI-powered features for our product team.
+
+Responsibilities
+- Build Python services and APIs with Flask or FastAPI.
+- Design and implement Generative AI features using LLM APIs,
+  prompt engineering, and Retrieval-Augmented Generation (RAG).
+- Build chatbots and document question-answering with LangChain.
+- Write clean, tested code and review pull requests on GitHub.
+- Work with product and data teams in an Agile process.
+
+Required skills
+- Python, SQL, and REST API design.
+- Generative AI, LLM, Prompt Engineering, and RAG.
+- LangChain, Machine Learning, and NLP.
+- Git, GitHub, and Docker.
+- Experience with MySQL or PostgreSQL.
+
+Nice to have
+- React, JavaScript, and Streamlit.
+- AWS or Azure.
+- Kubernetes and Jenkins.

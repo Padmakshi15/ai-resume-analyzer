@@ -1,0 +1,36 @@
+Padmakshi Bhonagiri
+Graduate Software Developer | Generative AI | Python | Java
+
+Summary
+Graduate software developer with experience in Python, Generative AI,
+and full-stack development. Built an AI Resume Analyzer with Streamlit,
+an LLM API, and MySQL, and a Generative AI chatbot using LangChain and
+Retrieval-Augmented Generation (RAG).
+
+Skills
+Python, Java, JavaScript, SQL, HTML, CSS, React, Flask, Streamlit,
+Pandas, NumPy, Scikit-learn, LangChain, OpenAI, Generative AI, LLM,
+Prompt Engineering, RAG, Machine Learning, NLP, Git, GitHub, Docker,
+MySQL, PostgreSQL, REST API, Agile
+
+Tools
+Git, GitHub, Docker, MySQL, Streamlit, Postman, Jira, Linux, Windows
+
+Education
+B.Tech, Information Technology (2016) — JNTU Hyderabad
+
+Experience
+Graduate Software Developer — Personal Projects, Jul 2025 – Oct 2025
+- AI Resume Analyzer and Job Match Assistant: Streamlit app that parses
+  PDF/DOCX resumes, extracts a structured profile with an LLM API,
+  matches skills against a job description, and generates interview
+  questions. Added JSON validation with automatic retry and stored
+  each analysis in MySQL.
+- Generative AI Chatbot: chatbot using LangChain, RAG, and an LLM API
+  over a document knowledge base, with a Streamlit front end.
+
+Software Developer — Full-Stack .NET and Python projects
+- Built REST APIs with ASP.NET Core and Flask, front ends with React
+  and Angular, and data layers with SQL Server, MySQL, and PostgreSQL.
+- Wrote unit tests with pytest and xUnit; used Git, Docker, and
+  Azure DevOps for builds and deployments.
